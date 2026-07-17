@@ -1,0 +1,5 @@
+(library
+ (name soteria)
+ (wrapped false)
+ (libraries unix)
+ (modules syntax symbolic solver executor verifier pretty))

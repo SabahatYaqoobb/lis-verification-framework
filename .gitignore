@@ -1,0 +1,6 @@
+_build/
+work/
+.DS_Store
+**/.DS_Store
+outputs/soteria-lis-project/
+outputs/~$*
